@@ -1,0 +1,32 @@
+body {
+    background-color: #ddd0c8;
+}
+h1{
+    text-align: center;
+    color:#323232;
+
+}
+#timer-container{
+    font-size: large;
+    font-family: 'Times New Roman';
+    text-align: center;
+    display: block;
+    color:#323232;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#times{
+    display: inline-flex;
+}
+
+.time{
+    margin: 10px;
+    padding: 5px;
+    background-size: 30px;
+    border-radius: 5px;
+    background-color: rgb(153, 149, 149);
+}
